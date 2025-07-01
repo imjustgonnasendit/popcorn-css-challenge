@@ -25,13 +25,6 @@ nav-items {
   font-size: 60px;
 }
 
-.site-title {
-  font-size: 2rem;
-  color: #553100;
-  margin: 0;
-  padding: 4rem;
-}
-
 .nav-items {
   display: flex;
   padding: 5rem;
